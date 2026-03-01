@@ -46,15 +46,8 @@ Aquí tienes una selección de mis proyectos (6 repos principales):
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daoudoudada&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daoudoudada&layout=compact&theme=radical&langs_count=6)
-
----
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daoudoudada&theme=radical)
-
 ---
 
 ## 🌎 Contacto
@@ -62,7 +55,3 @@ Si te interesa colaborar o quieres hablar de algún proyecto:
 
 - **LinkedIn:** www.linkedin.com/in/daoud-oudada
 - **Email:** oudadadaoud21@gmail.com
----
-
-### ✨ Sobre este perfil
-Este repositorio **daoudoudada/daoudoudada** es especial porque su `README.md` aparece en tu perfil de GitHub.
